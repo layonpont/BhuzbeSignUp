@@ -1,0 +1,157 @@
+body{
+    background-image: url("http://res.cloudinary.com/layonpoint/image/upload/v1506039431/bg_2017_2x_dntltj.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+h3 {
+   color: #fff;
+   margin-top: 17%;
+   font-size: 250%;
+   
+}
+
+.second {
+    margin-top: -1%;
+}
+
+.margin{
+    margin-top: 21%;
+}
+
+.row {
+    margin-left: 1%;
+}
+
+.icons{
+    margin-right: 5%;
+}
+
+
+.native-hidden {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+
+.first-icon[type="checkbox"] {
+    content: url('http://res.cloudinary.com/layonpoint/image/upload/v1507081441/fb_box_3x_t2zj3t.png');
+	display: block; 
+    position: absolute;   
+	width: 81%;
+    height: 242px;
+    margin-top: 0;
+    margin-left: 14%;	
+    outline: 0;
+    
+}
+
+.first-icon[type="checkbox"]:checked {
+    content: url('http://res.cloudinary.com/layonpoint/image/upload/v1507081441/fb_box_3x_t2zj3t.png');
+    background: rgba(250,250,250,0.5);
+    border-top-left-radius: 20%;
+    outline: 0;
+    
+    
+   
+}
+
+.second-icon[type="checkbox"] {
+    content: url('http://res.cloudinary.com/layonpoint/image/upload/v1507081171/ig_box_3x_vua6bt.png');
+	display: block; 
+    position: absolute;   
+	width: 81%;
+    height: 242px;
+    margin-top: 0;
+    outline: 0;
+    
+    
+}
+
+.second-icon[type="checkbox"]:checked {
+    content: url('http://res.cloudinary.com/layonpoint/image/upload/v1507081171/ig_box_3x_vua6bt.png');
+    background: rgba(250,250,250,0.5);
+    border-top-right-radius: 20%;
+    outline: 0;
+
+}
+
+
+.third-icon[type="checkbox"] {
+    content: url('http://res.cloudinary.com/layonpoint/image/upload/v1507081541/twitter_box_3x_fjaqqo.png');
+	display: block; 
+    position: absolute;   
+	width: 81%;
+    height: 242px;
+    margin-top: 85%;
+    margin-left: 14%;	
+    outline: 0;
+}
+
+.third-icon[type="checkbox"]:checked {
+    content: url('http://res.cloudinary.com/layonpoint/image/upload/v1507081541/twitter_box_3x_fjaqqo.png');
+    background: rgba(250,250,250,0.5);
+    border-bottom-left-radius: 20%;
+    outline: 0;
+    
+}
+
+
+.fourth-icon[type="checkbox"] {
+    content: url('http://res.cloudinary.com/layonpoint/image/upload/v1507081714/yt_box_3x_ecys1o.png');
+	display: block; 
+    position: absolute;   
+	width: 81%;
+    height: 242px;
+    margin-top: 85%;
+    outline: 0;
+    
+}
+
+.fourth-icon[type="checkbox"]:checked {
+    content: url('http://res.cloudinary.com/layonpoint/image/upload/v1507081714/yt_box_3x_ecys1o.png');
+    background: rgba(250,250,250,0.5);
+    border-bottom-right-radius: 20%;
+    outline: 0;
+    
+}
+
+
+p {
+    color: #fff;
+    font-size: 200%;
+    font-weight: bold;
+    margin-top: 90%;
+}
+
+#reach-num{
+    font-weight: 100;
+    margin-top: -2%;
+}
+
+.btn-primary {
+    background: #48288A;
+    color: #ffffff;
+    font-size: 20px;
+    border: #48288A;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 30%;
+    margin-top: 5%;
+    
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #48288A;
+    
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #48288A;
+    outline: 0;
+}

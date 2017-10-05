@@ -1,0 +1,129 @@
+
+.title {
+    font-size: 90px;
+    margin-top: 40%;
+    color: white;
+    font-weight: bold;
+}
+
+#sub-title {
+    font-size: 20px;
+    color: #fff;
+    margin-left: 48%;
+}
+
+.container {
+    background-image: url("http://res.cloudinary.com/layonpoint/image/upload/v1506039431/bg_2017_2x_dntltj.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+
+    
+}
+
+.container #logo {
+   width: 75%;
+   margin-top: 32%;
+   margin-left: 13%;
+}
+
+input{
+    width: 70%;
+    height: 65px;
+
+
+}
+
+input[type="text"]{
+    font-size: 20px;
+}
+
+input[type="password"]{
+    font-size: 20px;
+}
+
+#username-form {
+    margin-top: 18%;
+}
+
+#password-form {
+    margin-top: .6%;
+} 
+
+button {
+    margin-left: 15%;
+    
+    width: 70%;
+    height: 65px;
+}
+
+button i {
+    font-size: 50px;
+   
+    
+}
+
+.fa-facebook {
+    font-size: 20px;
+}
+
+.btn-primary {
+    background: #48288A;
+    color: #ffffff;
+    font-size: 20px;
+    border: #48288A;
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #48288A;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #48288A;
+   
+}
+
+.first {
+    margin-top: 5%;
+    font-size: 18px;
+}
+
+.second {
+     font-size: 18px;
+}
+
+#or {
+    color: white;
+    font-size: 18px;
+    margin-top: 2%;
+}
+
+.no-account {
+    color: #fff;
+    font-size: 30px;
+    margin-top: 8%;
+}
+
+.signup-text {
+    font-weight: bold;
+}
+
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#protection-text {
+    color: #fff;
+    font-size: 24px;
+    margin-top: 9%;
+}
+
+#terms {
+    color: #fff;
+    font-size: 26px;
+    margin-top: 5%;
+    margin-bottom: 15%;
+}

@@ -1,0 +1,107 @@
+
+
+body {
+ background-image: url("http://res.cloudinary.com/layonpoint/image/upload/v1506039431/bg_2017_2x_dntltj.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: fit-content;
+   
+}
+
+.row {
+    margin-top: 31%;
+    margin-left: 5%;
+}
+
+img{
+    width: 175%;
+     margin-left: -40%; 
+}
+
+#add-profile-pic {
+    color: #fff;
+   margin-left: -5px;
+    margin-top: 20%;
+    font-size: 20px;
+    width: 480%;
+    /* position: absolute; */
+}
+
+form {
+     margin-top: 20%;
+     
+ }
+
+ input {
+     width: 128%;
+     height: 70px;
+     margin-left: 17%;
+     opacity: .70;
+ }
+
+ input[type="text"], input[type="password"] {
+     font-size: 25px;
+
+ }
+
+ p {
+     font-size: 30px;
+     color: #fff;
+     margin-top: 5%;
+     margin-bottom: 5%;
+     margin-right: 52%;
+ }
+
+ .input-heading {
+     margin-left: 13.8%;
+ }
+
+ .username {
+     margin-left: 18%;
+ }
+
+ #title{ 
+     margin-right: 63%;
+ }
+#password-header {
+    margin-left: 18%;
+}
+
+#location-header {
+    margin-left: 16%;
+}
+
+ #email-text {
+     margin-top: -13%;
+ }
+
+ .margin {
+     margin-right: 60%;
+ }
+
+ button {
+     margin-left: 45%;
+     margin-top: 8%;
+     margin-bottom: 30%;
+     width: 75%;
+     height: 67px;
+     opacity: .88;
+     
+     
+ }
+
+ .btn-primary {
+    background: #48288A;
+    color: #ffffff;
+    font-size: 20px;
+    border: #48288A;
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #48288A;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #48288A;
+   
+}
